@@ -51,6 +51,8 @@ Dodge-Obstacles/
 
 4. Use the appropriate input (e.g., arrow keys or WASD) to control the player and dodge incoming obstacles.
 
+---
+
 ## 📌 Future Improvements (Optional)
 Add health systems
 
